@@ -1,4 +1,8 @@
-
-assignments/assignment2/cs231n/datasets/
-*.h5
+# Ignore large model files and datasets
+*.pt
+*.pth
+*.tar.gz
 *.zip
+*.tgz
+assignments/assignment3/data/
+assignments/assignment3/cs231n/datasets/
